@@ -1,0 +1,35 @@
+Information about the COMP 3104 DevOps course.
+
+The COMP 3104 DevOps course is 15 weeks long. 
+
+What we learn in COMP 3104 every week:
+
+week 1: Intro, BASH & The CLI
+
+week 2: Git, GitHub & more BASH
+
+week 3: Version Control for DevOps
+
+week 4: Developer Operations Landscape
+
+week 5: Hosting High Geared Single Page Applications & Work tracking tools
+
+week 6: Continuous Integration / Continuous Deployment
+
+week 7: MID-TERM EXAM
+
+week 8: INTERSESSION WEEK
+
+week 9: CI/CD Pipeline Sequences
+
+week 10: Working with Cloud Infrastructure
+
+week 11: Automating DevOps & Quality assurance
+
+week 12: DevOps Assembly Lines
+
+week 13: Commonly Used DevOps Tech Exposed
+
+week 14: Transitioning into the role of DevOps
+
+week 15: Final exam

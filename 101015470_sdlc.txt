@@ -1,0 +1,2 @@
+intro: devops is vital on the software development process.
+key components: collaboration, CI, CD, Monitoring and feedback, IaC

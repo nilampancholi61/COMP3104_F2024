@@ -1,0 +1,3 @@
+The DevOps course has been my first introduction to DevOps. 
+It has shown me many uses for version control systems, 
+as well as new ways to interact with GitHub.

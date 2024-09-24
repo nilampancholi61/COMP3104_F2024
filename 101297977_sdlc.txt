@@ -1,0 +1,20 @@
+The importance of learning DevOps is in the software development cycle is:
+
+1. Significantly lower IT costs and resource requirements.
+2. Removes both routine and complex manual tasks.
+3. Ensures security practices.
+4. Increase product delivery.
+5. Improve team communication and collaboration.
+
+Development Cycle steps are:
+
+1. Plan
+2. Code
+3. Build
+4. Test
+5. Release
+6. Deploy
+7. Operate
+8. Monitor
+
+
